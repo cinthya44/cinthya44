@@ -1,7 +1,6 @@
 About Me
 
 - 📱 Building mobile applications with React Native
-- ⚛️ Developing web experiences with React
 - 🧠 Continuously learning about software architecture and best practices
 - 🚀 Interested in creating products that solve real problems
 <!--
