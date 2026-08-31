@@ -9,10 +9,10 @@
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Building+with+code+%26+Problem+solver" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Building+with+code" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">Mobile Developer &amp; Problem solver</p>
+<p align="center">Software Developer &amp; Problem solver</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cinthya44&label=Views&color=0e75b6&style=flat" alt="views" />
