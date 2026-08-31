@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/paisaje%202.avif" alt="banner" width="100%" />
+  <img src="./assets/banner.avif" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">
